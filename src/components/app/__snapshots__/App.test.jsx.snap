@@ -2,8 +2,13 @@
 
 exports[`App component renders App 1`] = `
 <DocumentFragment>
-  <h1>
-    Hello World
-  </h1>
+  <section>
+    <h1>
+      You need to fetch a quote silly
+    </h1>
+    <button>
+      Load
+    </button>
+  </section>
 </DocumentFragment>
 `;
