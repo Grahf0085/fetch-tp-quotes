@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App component renders App 1`] = `
+<DocumentFragment>
+  <section>
+    <h1>
+      You need to fetch a quote silly
+    </h1>
+    <button>
+      Load
+    </button>
+  </section>
+</DocumentFragment>
+`;
