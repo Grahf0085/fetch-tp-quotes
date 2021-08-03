@@ -1,5 +1,6 @@
 import React from 'react';
+import TpQuote from '../../containers/quote/TwinPeaksQuote';
 
 export default function App() {
-  return <h1>Hello World</h1>;
+  return <TpQuote />;
 }

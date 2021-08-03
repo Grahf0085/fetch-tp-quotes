@@ -1,12 +1,12 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-const Quote = ({ textQuote }) => {
-  return <h1>{ textQuote }</h1>;
+const Quote = ({ text }) => {
+  return <h1>{ text }</h1>;
 };
 
 Quote.propTypes = {
-  textQuote: PropTypes.string.isRequired
+  text: PropTypes.string.isRequired
 };
 
 export default Quote;
